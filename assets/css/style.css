@@ -610,7 +610,7 @@ main { overflow-x: hidden; }
 
 .skills-toggle.active::before {
   left: 98px;
-  width: 94px;
+  width: 153px;
 }
 
 .toggle-btn {
@@ -1279,7 +1279,7 @@ textarea.input-field {
 
   .contact-form { width: 100%; }
 
-  .contact-list { margin-left: -40px; }
+  .contact-list { margin-left: -10px; }
 
 
 
