@@ -914,7 +914,12 @@ textarea.input-field {
   transform: translateY(0);
 }
 
-
+.anchor-tag {
+  color: var(--color-primary)
+}
+.anchor-tag:hover {
+  color: #054984;
+}
 
 
 
