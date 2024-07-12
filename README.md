@@ -11,11 +11,11 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Jack - Personal portfolio</h2>
+  <h2 align="center">Joel - Personal portfolio</h2>
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://joelgj.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -23,9 +23,9 @@
 
 ### Demo Screeshots
 
-![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Jack Portfolio Desktop Demo](./readme-images/desktop1.png "Desktop Demo")
 
-### Prerequisites
+<!-- ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
@@ -53,4 +53,4 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contains any license. -->
