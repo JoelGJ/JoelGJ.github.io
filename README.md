@@ -9,7 +9,7 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="./readme-images/my-logo.png" />
 
   <h2 align="center">Joel - Personal portfolio</h2>
 
